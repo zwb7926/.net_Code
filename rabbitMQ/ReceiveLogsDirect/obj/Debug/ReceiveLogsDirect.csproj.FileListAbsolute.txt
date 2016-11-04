@@ -1,0 +1,14 @@
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe.config
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.pdb
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.dll
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.xml
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.pdb
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe.config
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.exe
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\bin\Debug\ReceiveLogsDirect.pdb
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.dll
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\bin\Debug\RabbitMQ.Client.xml
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.exe
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogsDirect\obj\Debug\ReceiveLogsDirect.pdb

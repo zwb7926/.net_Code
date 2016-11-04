@@ -1,0 +1,16 @@
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\bin\Debug\Work.exe.config
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\bin\Debug\Work.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\bin\Debug\Work.pdb
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\bin\Debug\RabbitMQ.Client.dll
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\bin\Debug\RabbitMQ.Client.xml
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\obj\Debug\Work.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Work\obj\Debug\Work.pdb
+F:\GitHub\.net_Code\rabbitMQ\Work\bin\Debug\Work.exe.config
+F:\GitHub\.net_Code\rabbitMQ\Work\bin\Debug\Work.exe
+F:\GitHub\.net_Code\rabbitMQ\Work\bin\Debug\Work.pdb
+F:\GitHub\.net_Code\rabbitMQ\Work\bin\Debug\RabbitMQ.Client.dll
+F:\GitHub\.net_Code\rabbitMQ\Work\bin\Debug\RabbitMQ.Client.xml
+F:\GitHub\.net_Code\rabbitMQ\Work\obj\Debug\Work.csprojResolveAssemblyReference.cache
+F:\GitHub\.net_Code\rabbitMQ\Work\obj\Debug\Work.exe
+F:\GitHub\.net_Code\rabbitMQ\Work\obj\Debug\Work.pdb

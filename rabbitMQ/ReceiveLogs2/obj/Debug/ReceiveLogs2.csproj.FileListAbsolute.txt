@@ -1,0 +1,14 @@
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.exe.config
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.pdb
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\bin\Debug\RabbitMQ.Client.dll
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\bin\Debug\RabbitMQ.Client.xml
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\obj\Debug\ReceiveLogs2.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\ReceiveLogs2\obj\Debug\ReceiveLogs2.pdb
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.exe.config
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.exe
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\bin\Debug\ReceiveLogs2.pdb
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\bin\Debug\RabbitMQ.Client.dll
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\bin\Debug\RabbitMQ.Client.xml
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\obj\Debug\ReceiveLogs2.exe
+F:\GitHub\.net_Code\rabbitMQ\ReceiveLogs2\obj\Debug\ReceiveLogs2.pdb

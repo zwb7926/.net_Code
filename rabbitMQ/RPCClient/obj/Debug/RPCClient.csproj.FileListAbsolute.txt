@@ -1,0 +1,16 @@
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\bin\Debug\RPCClient.exe.config
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\bin\Debug\RPCClient.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\bin\Debug\RPCClient.pdb
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\bin\Debug\RabbitMQ.Client.dll
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\bin\Debug\RabbitMQ.Client.xml
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\obj\Debug\RPCClient.csprojResolveAssemblyReference.cache
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\obj\Debug\RPCClient.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\RPCClient\obj\Debug\RPCClient.pdb
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\bin\Debug\RPCClient.exe.config
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\bin\Debug\RPCClient.exe
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\bin\Debug\RPCClient.pdb
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\bin\Debug\RabbitMQ.Client.dll
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\bin\Debug\RabbitMQ.Client.xml
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\obj\Debug\RPCClient.csprojResolveAssemblyReference.cache
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\obj\Debug\RPCClient.exe
+F:\GitHub\.net_Code\rabbitMQ\RPCClient\obj\Debug\RPCClient.pdb

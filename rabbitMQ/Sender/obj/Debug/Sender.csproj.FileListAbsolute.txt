@@ -1,0 +1,14 @@
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\bin\Debug\Sender.exe.config
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\bin\Debug\Sender.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\bin\Debug\Sender.pdb
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\bin\Debug\RabbitMQ.Client.dll
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\bin\Debug\RabbitMQ.Client.xml
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\obj\Debug\Sender.exe
+D:\Demo文件\RabbitMQ\Example\rabbitMQ\Sender\obj\Debug\Sender.pdb
+F:\GitHub\.net_Code\rabbitMQ\Sender\bin\Debug\Sender.exe.config
+F:\GitHub\.net_Code\rabbitMQ\Sender\bin\Debug\Sender.exe
+F:\GitHub\.net_Code\rabbitMQ\Sender\bin\Debug\Sender.pdb
+F:\GitHub\.net_Code\rabbitMQ\Sender\bin\Debug\RabbitMQ.Client.dll
+F:\GitHub\.net_Code\rabbitMQ\Sender\bin\Debug\RabbitMQ.Client.xml
+F:\GitHub\.net_Code\rabbitMQ\Sender\obj\Debug\Sender.exe
+F:\GitHub\.net_Code\rabbitMQ\Sender\obj\Debug\Sender.pdb
