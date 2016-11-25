@@ -1,0 +1,10 @@
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\obj\Debug\LyTechnology.Client.csprojResolveAssemblyReference.cache
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\LyTechnology.Client.exe.config
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\LyTechnology.Client.exe
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\LyTechnology.Client.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\Common.dll
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\Thrift.dll
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\Common.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\bin\Debug\Thrift.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\obj\Debug\LyTechnology.Client.exe
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Client\obj\Debug\LyTechnology.Client.pdb

@@ -1,0 +1,2 @@
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Thrift\bin\Debug\LyTechnology.Thrift.exe.config
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\LyTechnology.Thrift\bin\Debug\LyTechnology.Server.exe.config

@@ -1,0 +1,7 @@
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\bin\Debug\Common.dll
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\bin\Debug\Common.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\bin\Debug\Thrift.dll
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\bin\Debug\Thrift.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\obj\Debug\Common.dll
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\obj\Debug\Common.pdb
+D:\Demo文件\Thrift\Example\ThriftCSharpByMe\LyTechnology.Thrift\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
